@@ -1,5 +1,6 @@
 - [Job searching for Engineers](https://github.com/alex-wap/job-search)
 - [Writing a CV](https://www.reddit.com/r/resumes/wiki/index/faq)
+- [CV workshop](https://www.loom.com/share/27c47a3da19a40789e84d62e53b0ba31)
 - [Prepare your GitHub](https://www.reddit.com/r/webdev/comments/90xmpw/how_to_prep_your_github_for_job_seeking)
 - [Negotiating a job offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [Systems Design interviews](https://interviewing.io/guides/system-design-interview)
